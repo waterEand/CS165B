@@ -1,2 +1,2 @@
 # CS165B
-Machine Learning 2023spring
+Machine Learning 2023spring in UCSB
